@@ -7,8 +7,9 @@ Este repositorio contiene una serie de módulos para aprender HTML de manera pro
 - [Módulo 1: Introducción a HTML](./modulo1)
 - [Módulo 2: Etiquetas y estructura básica](./modulo2)
 - [Módulo 3: Enlaces](./modulo3)
-- [Módulo 4: Tablas y formularios](./modulo4)
-- [Módulo 5: Estilos y CSS](./modulo5)
+- [Módulo 4: Imagenes](./modulo4)
+- [Módulo 5: Tablas y formularios](./modulo5)
+- [Módulo 6: Estilos y CSS](./modulo6)
 
 ## Uso de GitHub Copilot
 

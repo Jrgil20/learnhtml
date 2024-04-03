@@ -6,7 +6,7 @@ Este repositorio contiene una serie de módulos para aprender HTML de manera pro
 
 - [Módulo 1: Introducción a HTML](./modulo1)
 - [Módulo 2: Etiquetas y estructura básica](./modulo2)
-- [Módulo 3: Enlaces y multimedia](./modulo3)
+- [Módulo 3: Enlaces](./modulo3)
 - [Módulo 4: Tablas y formularios](./modulo4)
 - [Módulo 5: Estilos y CSS](./modulo5)
 

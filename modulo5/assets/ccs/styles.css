@@ -3,11 +3,6 @@ p {
     font-size: 30px;
 }
 
-p:hover {
-    /* Your styles for paragraphs when hovered go here */
-    color: blue;
-}
-
 .my-class {
     /* Your styles for elements with the class "my-class" go here */
     color: red;

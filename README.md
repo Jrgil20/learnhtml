@@ -10,8 +10,8 @@ Este repositorio contiene una serie de módulos para aprender HTML de manera pro
 - [Módulo 4: Imagenes](./modulo4)
 - [Módulo 5: Estilos y CSS](./modulo5)
 - [Módulo 6: Clases](./modulo6)
-- [Módulo 7:](./modulo7)
-- [Módulo 8:](./modulo8)
+- [Módulo 7: Selectores](./modulo7)
+- [Módulo 8: pseudo-clases](./modulo8)
 
 ## Uso de GitHub Copilot
 

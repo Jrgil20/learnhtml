@@ -1,0 +1,11 @@
+p#last {
+    color: red;    
+}
+
+p.example {
+    color: green;
+}
+
+p {
+    color: blue;
+}    

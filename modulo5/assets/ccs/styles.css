@@ -1,0 +1,15 @@
+p {
+    /* Your styles for paragraphs go here */
+    font-size: 30px;
+}
+
+.my-class {
+    /* Your styles for elements with the class "my-class" go here */
+    color: red;
+}
+
+#my-id {
+    /* Your styles for the element with the ID "my-id" go here */
+    background-color: blue;
+    font-weight: bold;
+}

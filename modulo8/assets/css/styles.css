@@ -1,0 +1,29 @@
+a.special:link {
+    /*este se aplica cuando el link no fue presionada*/
+    color: green;
+}
+
+a.special:visited {
+    /*este se aplica cuando el link fue presionada*/
+    color: red;
+}
+
+a.activado:active {
+    /*este se aplica cuando el link esta activo*/
+    font-weight: bold;    
+}
+
+p:hover {
+    /*este se aplica cuando el mouse esta sobre el elemento*/
+    background-color: yellow;
+}
+
+p:target {
+    /*este se aplica cuando el elemento es el objetivo de un link*/
+    font-weight: bold;    
+}
+
+input:focus {
+    /*este se aplica cuando el elemento tiene el foco*/
+    font-weight: bold;    
+}

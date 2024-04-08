@@ -1,0 +1,52 @@
+/* Establece el contenedor principal */
+.container {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-gap: 10px; 
+}
+
+/* Establece las columnas individuales */
+.column {
+    grid-column: span 1;
+}
+
+/* Ajusta el ancho de las columnas según sea necesario */
+.column-1 {
+    grid-column: span 1;
+    background-color: aqua;
+}
+
+.column-2 {
+    grid-column: span 2;
+    background-color: aqua;
+}
+
+.column-3 {
+    grid-column: span 3;
+    background-color: aqua;
+}
+
+.column-4 {
+    grid-column: span 4;
+    background-color: aqua;
+}
+
+.column-5 {
+    grid-column: span 5;
+    background-color: aqua;
+}
+
+.column-6 {
+    grid-column: span 6;
+    background-color: aqua;
+}
+
+.column-7 {
+    grid-column: span 7;
+    background-color: aqua;
+}
+
+.column-8 {
+    grid-column: span 8;
+    background-color: aqua;
+}

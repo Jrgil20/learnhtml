@@ -14,6 +14,7 @@ Este repositorio contiene una serie de módulos para aprender HTML de manera pro
 - [Módulo 8: pseudo-clases](./modulo8)
 - [Módulo 9: UI_Libraries](https://learn-html.org/en/UI_Libraries)
 - [Módulo 10: Bootstrap](./modulo10)
+- [Módulo 10: Grid layout](./modulo11)
 
 ## Uso de GitHub Copilot
 

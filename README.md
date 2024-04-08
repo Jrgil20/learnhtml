@@ -19,6 +19,10 @@ Este repositorio contiene una serie de módulos para aprender HTML de manera pro
 
 Este repositorio utiliza GitHub Copilot, una herramienta de inteligencia artificial que ayuda en la generación de código. Copilot puede ser utilizado para agilizar el desarrollo y proporcionar sugerencias de código.
 
+## Inspirado en LearnHtml
+
+- [Learn html](https://learn-html.org)
+
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.

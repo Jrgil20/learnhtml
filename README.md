@@ -16,9 +16,9 @@ Este repositorio contiene una serie de módulos para aprender HTML de manera pro
 - [Módulo 10: Bootstrap](./modulo10)
 - [Módulo 11: Grid layout](./modulo11)
 - [Módulo 12: javaScript](./modulo12)
-- [Módulo 12: colors](./modulo13)
-- [Módulo 12: display](./modulo14)
-
+- [Módulo 13: colors](./modulo13)
+- [Módulo 14: display](./modulo14)
+e
 ## Uso de GitHub Copilot
 
 Este repositorio utiliza GitHub Copilot, una herramienta de inteligencia artificial que ayuda en la generación de código. Copilot puede ser utilizado para agilizar el desarrollo y proporcionar sugerencias de código.

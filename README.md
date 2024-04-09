@@ -26,6 +26,11 @@ Este repositorio utiliza GitHub Copilot, una herramienta de inteligencia artific
 ## Inspirado en LearnHtml
 
 - [Learn html](https://learn-html.org)
+ pese ser inspirado mucha de la informacion fue generada o completada.
+
+## Proposito
+
+Este respositorio tiene como proposito unico el aprendizaje de html mediante la experimentacion del mismo, por lo cual es de caracter formativo, sin fines de lucro.
 
 ## Licencia
 
